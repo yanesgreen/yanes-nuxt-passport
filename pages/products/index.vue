@@ -91,7 +91,6 @@
     },
     async fetch() {
       this.products = await this.$axios.$get('api/products')
-      console.log({'products': this.products});
     }
   }
 </script>
