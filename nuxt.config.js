@@ -8,7 +8,7 @@ export default {
     meta: [
       {charset: 'utf-8'},
       {name: 'viewport', content: 'width=device-width, initial-scale=1'},
-      {name: 'themeColor', content: '#4169e1'},
+      {name: 'theme-color', content: '#4169e1'},
       {name: 'author', content: 'yanes'},
       {name: 'description', content: 'yanes nuxt laravel'},
     ],
