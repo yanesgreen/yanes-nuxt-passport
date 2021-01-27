@@ -98,7 +98,7 @@ export default {
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {
-    baseURL: `http://lv-pass-vue.test/`
+    baseURL: `https://lv-pass-vue.test/`
   },
 
   toast: {
