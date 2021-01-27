@@ -5,8 +5,6 @@
       <div class="nav navbar-nav w-100 justify-content-between">
         <div class="d-flex">
           <span class="navbar-brand">MyApp</span>
-          <a class="nav-item nav-link active" href="#">Home</a>
-          <a class="nav-item nav-link" href="about.html">About</a>
         </div>
       </div>
     </nav>

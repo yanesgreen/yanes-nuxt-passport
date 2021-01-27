@@ -1,13 +1,13 @@
 <template>
   <div class="container">
     <div class="row h-100">
-      <div class="col-sm-6 d-flex flex-column justify-content-center">
+      <div class="col-sm-6 d-flex flex-column justify-content-center text-center text-md-left">
         <h3 class="display-4 text-white mb-3">MyApp</h3>
         <p class="text-white-50 mb-5">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam blanditiis corporis cum cumque ea
           omnis.
         </p>
-        <nuxt-link class="nav-item nav-link btn btn-light text-dark align-self-start rounded-pill shadow-animated"
+        <nuxt-link class="nav-item nav-link btn btn-light text-dark align-self-center align-self-md-start rounded-pill shadow-animated"
                    :to="{name: 'login'}">
           Login
         </nuxt-link>

@@ -8,7 +8,9 @@ export default {
     meta: [
       {charset: 'utf-8'},
       {name: 'viewport', content: 'width=device-width, initial-scale=1'},
-      {hid: 'description', name: 'description', content: ''}
+      {name: 'themeColor', content: '#4169e1'},
+      {name: 'author', content: 'yanes'},
+      {name: 'description', content: 'yanes nuxt laravel'},
     ],
     link: [
       {rel: 'icon', type: 'image/x-icon', href: '/favicon.ico'}
@@ -96,7 +98,7 @@ export default {
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {
-    baseURL: `process.env.BASE_URL`
+    baseURL: `http://lv-pass-vue.test/`
   },
 
   toast: {
