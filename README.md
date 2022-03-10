@@ -1,13 +1,18 @@
 # yanes-nuxt-passport
+
+## Description
 A sample project that consume laravel passport api with nuxt SSR
 
-# install
+## install
 - clone project
 - npm install
 
-#development
+## development
 - npm run serve
 
-#run server
+## run server
 - npm run start
+
+## Live Link
+yanes-nuxt-passport.yoeker.vercel.app
 
