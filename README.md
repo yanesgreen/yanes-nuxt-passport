@@ -13,6 +13,6 @@ A sample project that consume laravel passport api with nuxt SSR
 ## run server
 - npm run start
 
-## Live Link
+## Demo Link
 https://yanes-nuxt-passport-yoeker.vercel.app/
 
